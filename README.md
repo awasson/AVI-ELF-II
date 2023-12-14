@@ -9,7 +9,7 @@ There are a number of differences between the AVI ELF II and the original:
 
 
 
-Deisgn Files:
+### Design Files:
 
 [Schematic](notes/AVIELF2v1-Sch.pdf)
 
