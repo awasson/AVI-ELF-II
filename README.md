@@ -30,4 +30,4 @@ There are a number of differences between the AVI ELF II and the original:
 
 [KiCAD](kicad/AVIELF2v1-KiCad.zip)
 
-![Image of the latest prototype of the AVI ELF II circuit board](photos/IMG_9843.jpeg)
+![Image of the latest prototype of the AVI ELF II circuit board](photos/IMG_0209.jpeg)
