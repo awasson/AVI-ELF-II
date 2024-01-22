@@ -19,8 +19,8 @@ There are a number of differences between the AVI ELF II and the original:
 
 ### Expansion Boards
 * **Protoboard** Full sized expansion card with 86 position edge connection for prototyping cicuitry. 
-* **Hyperboard Expansion Card** with 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area (in development/testing).
-* **ELF 2K Disk for ELF II Board** using Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).    
+* **Hyperboard Expansion Card** With 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area (in development/testing).
+* **ELF 2K Disk for ELF II Board** Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).    
 * **VIP Personality Board** to VIP an ELF (in development). 
 
 
