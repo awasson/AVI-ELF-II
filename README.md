@@ -7,7 +7,7 @@ This project is ongoing. Below you will find a stable version of the PCB gerber 
 
 There are a number of differences between the AVI ELF II and the original:
 
-* Single 6 to 9 volt DC supply. Suitable for use with typical 9 volt adapter with barrel connector (center positive).
+* Power is from a single 6 to 9 volt DC supply that supplies the board and expansion cards. Suitable for use with typical 9 volt adapter with barrel connector (center positive). If a V7805-2000R (DC DC CONVERTER 5V 10W) is used in place of the LM7805 voltage regulator, up to 2A of current is available for the board and expansion boards.
 * Optional on-board DC-DC coverter for +8 volt / -8 volt supply for original Netronics Giant Board.
 * 32Kb on-board RAM with ability to adjust RAM size from 256bytes to 32Kb.
 * Optional onboard RAM battery backup.
