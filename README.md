@@ -10,17 +10,18 @@ There are a number of differences between the AVI ELF II and the original:
 * Power on/off toggle switch with power status LED.
 * Power is from a single 6 to 9 volt DC supply that supplies the board and expansion cards. Suitable for use with typical 9 volt adapter with barrel connector (center positive). If a V7805-2000R (DC DC CONVERTER 5V 10W) is used in place of the LM7805 voltage regulator, up to 2A of current is available for the board and expansion boards.
 * Optional on-board DC-DC coverter for +8 volt / -8 volt supply for original Netronics Giant Board.
-* 32Kb on-board RAM with ability to adjust RAM size from 256bytes to 32Kb.
+* 32KB on-board RAM with ability to adjust RAM size from 256 Bytes to 32KB.
 * Optional onboard RAM battery backup.
 * Keypad uses modern Cherry MX compatible keyswitches.
 * Optional raised Keypad to approximate height of keypad on the original Netronics ELF II.
 * Onboard Data Display options for original HP 5082-7740 7-Segment Displays or HP 5082-7340 Dot Matrix LED Display.
-* Optional raised display boards for TIL 311 or Dot Matrix Address and Data Displays.
+* Optional raised display boards for TIL 311 or Dot Matrix Address and Data Displays. 
 
 ### Expansion Boards
-* Hyperboard Expansion card with 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area (in development/testing).
-* ELF 2K Disk for ELF II Board using Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).    
-* VIP Personality Board to VIP an ELF (in development). 
+* **Protoboard** Full sized expansion card with 86 position edge connection for prototyping cicuitry. 
+* **Hyperboard Expansion Card** with 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area (in development/testing).
+* **ELF 2K Disk for ELF II Board** using Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).    
+* **VIP Personality Board** to VIP an ELF (in development). 
 
 
 ### Design Files:
