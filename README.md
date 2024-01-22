@@ -16,8 +16,11 @@ There are a number of differences between the AVI ELF II and the original:
 * Optional raised Keypad to approximate height of keypad on the original Netronics ELF II.
 * Onboard Data Display options for original HP 5082-7740 7-Segment Displays or HP 5082-7340 Dot Matrix LED Display.
 * Optional raised display boards for TIL 311 or Dot Matrix Address and Data Displays.
-* Optional VIP Personality Board to VIP and ELF (in progress).
-* Hyperboard Expansion card for 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area.
+
+### Expansion Boards
+* Hyperboard Expansion card with 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area (in development/testing).
+* ELF 2K Disk for ELF II Board using Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).    
+* Optional VIP Personality Board to VIP and ELF (in development). 
 
 
 ### Design Files:
