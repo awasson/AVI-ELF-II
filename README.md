@@ -5,7 +5,7 @@ The AVI ELF II computer was reimagined by the late Ed Keefe (1964-2022) to maint
 
 This project is ongoing. Below you will find a stable version of the PCB gerber files, bill of materials. The Assembly Manual is in progress and will be uploaded in the very early part of 2024.
 
-There are a number of differences between the AVI ELF II and the original:
+**There are a number of differences between the AVI ELF II and the original:**
 
 * Power on/off toggle switch with power status LED.
 * Power is from a single 6 to 9 volt DC supply that supplies the board and expansion cards. Suitable for use with typical 9 volt adapter with barrel connector (center positive). If a V7805-2000R (DC DC CONVERTER 5V 10W) is used in place of the LM7805 voltage regulator, up to 2A of current is available for the board and expansion boards.
