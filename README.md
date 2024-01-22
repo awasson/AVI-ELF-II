@@ -7,6 +7,16 @@ This project is ongoing. Below you will find a stable version of the PCB gerber 
 
 There are a number of differences between the AVI ELF II and the original:
 
+* Single 6 to 9 volt DC supply. Suitable for use with typical 9 volt adapter with barrel connector (center positive).
+* Optional on-board DC-DC coverter for +8 volt / -8 volt supply for original Netronics Giant Board.
+* 32Kb on-board RAM with ability to adjust RAM size from 256bytes to 32Kb.
+* Optional onboard RAM battery backup.
+* Keypad uses modern Cherry MX compatible keyswitches.
+* Optional raised Keypad to approximate height of keypad on the original Netronics ELF II.
+* Onboard Data Display options for original HP 5082-7740 7-Segment Displays or HP 5082-7340 Dot Matrix LED Display.
+* Optional raised display boards for TIL 311 or Dot Matrix Address and Data Displays.
+* Optional VIP Personality Board to VIP and ELF (in progress).
+* Hyperboard Expansion card for 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area.
 
 
 ### Design Files:
