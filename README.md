@@ -23,6 +23,9 @@ This project is ongoing. Below you will find a stable version of the PCB gerber 
 * **ELF 2K Disk for ELF II Board** Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).    
 * **VIP Personality Board** to VIP an ELF (in development). 
 
+### Build Notes
+
+[AVI ELF II Wiki](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Basic-Assembly-Notes)
 
 ### Design Files:
 
