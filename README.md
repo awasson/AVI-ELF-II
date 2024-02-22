@@ -1,5 +1,8 @@
 # AVI ELF II
-The AVI ELF II is a reproduction of the RCA  CDP1802-based computer kit by Netronics Research and Development Limited. 
+
+**The AVI ELF II is a reproduction of the RCA  CDP1802-based computer kit by Netronics Research and Development Limited.**
+
+![IMG_0385_A](https://github.com/awasson/AVI-ELF-II/assets/2935397/7c421d9a-3ebc-41ea-bd03-90004d0bfe39)
 
 The AVI ELF II computer was reimagined by the late Ed Keefe (1964-2022) to maintain the aesthetic of the original ELF II, with additional onboard RAM and daughter cards for flexibility of keypad encoders and display drivers.
 
@@ -36,5 +39,3 @@ This project is ongoing. Below you will find a stable version of the PCB gerber 
 [FAB Files](gerbers/AVIELF2v1-Gerbers.zip)
 
 [KiCAD](kicad/AVIELF2v1-KiCad.zip)
-
-![Image of the latest prototype of the AVI ELF II circuit board](photos/IMG_0209.jpeg)
