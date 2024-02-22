@@ -34,10 +34,10 @@ This project is ongoing with the support of [Josh Bensadon](https://github.com/J
 
 ### Design Files:
 
-[Schematic](notes/AVIELF2v1-Sch.pdf)
+[Schematic](notes/ELF-II/AVIELF2v1-Sch.pdf)
 
-[Bill of Materials](notes/AVI%20ELF%20II%20Final%20BOM.xlsx)
+[Bill of Materials](notes/ELF-II/AVI%20ELF%20II%20Final%20BOM.xlsx)
 
-[FAB Files](gerbers/AVIELF2v1-Gerbers.zip)
+[FAB Files](gerbers/ELF-II/AVIELF2v1-Gerbers.zip)
 
-[KiCAD](kicad/AVIELF2v1-KiCad.zip)
+[KiCAD](kicad/ELF-II/AVIELF2v1-KiCad.zip)
