@@ -1,4 +1,4 @@
-# AVI ELF II
+# AVI ELF II Rev D Variant
 
 **The AVI ELF II Rev D Variant is a reproduction of the RCA  CDP1802-based computer kit by Netronics Research and Development Limited.**
 
