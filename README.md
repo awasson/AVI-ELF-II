@@ -2,7 +2,7 @@
 
 **The AVI ELF II Rev D Variant is a reproduction of the RCA  CDP1802-based computer kit by Netronics Research and Development Limited.**
 
-![IMG_0385_A](https://github.com/awasson/AVI-ELF-II/assets/2935397/389c3292-d899-4dbd-8639-9a8fe6a4d449)
+![ELF II Rev D Variant](https://github.com/awasson/AVI-ELF-II/assets/2935397/c0068558-4cf3-4f1a-80ae-7bcad960d778)
 
 The AVI ELF II Rev D Variant single board microcomputer was reimagined by the late Ed Keefe (1964-2022) to maintain the aesthetic of the original ELF II, with additional onboard RAM and daughter cards for flexibility of keypad encoders and display drivers.
 
