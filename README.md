@@ -22,7 +22,7 @@ This project is ongoing with the support of [Josh Bensadon](https://github.com/J
 * Onboard Data Display options for original HP 5082-7740 7-Segment Displays or HP 5082-7340 Dot Matrix LED Display.
 * Optional raised display boards for TIL 311 or Dot Matrix Address and Data Displays. 
 
-### Build Notes
+### Build Notes & Assembly Manual
 * [AVI ELF II Wiki](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Basic-Assembly-Notes)
 
 ### Design Files:
