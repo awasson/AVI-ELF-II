@@ -8,7 +8,7 @@ The AVI ELF II Rev D Variant single board microcomputer is a replica of the Netr
 
 This project is ongoing with the support of [Josh Bensadon](https://github.com/JoshBensadon), [Andrew Wasson](https://github.com/awasson), Walter Miraglia and Rizal Acob. Below you will find a stable version of the PCB gerber files, bill of materials. 
 
-[The Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Basic-Assembly-Notes) is in progress in the Wiki.
+[The Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Basic-Assembly-Notes) is in the Wiki.
 
 **There are a number of differences between the AVI ELF II and the original:**
 
@@ -32,8 +32,18 @@ This project is ongoing with the support of [Josh Bensadon](https://github.com/J
 
 
 ## Expansion Boards
-Several Expansion boards have been designed to enhance and extend the ELF II. These were designed primarily for use with the AVI ELF II but it is quite possible that they will work with an orginal Netronics ELF II. 
+Several Expansion boards have been designed to enhance and extend the ELF II. These were designed primarily for use with the AVI ELF II but it is quite possible that many will work with an orginal Netronics ELF II. We are in the midst of writing the build instructions and documentation for the cards but in the meantime, we have provided schematics and gerber files for the boards below. We will continue to add more details about these boards and how they integrate with the ELF II system in the coming days.   
 * **Hyperboard Expansion Card** With 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area (in development/testing). The Hyperboard is a decendant of the Netronics ELF II Giant Board but the Hyperboard includes modern enhancements for additional RAM and EEPROM, input/output ports and serial connections.
-* **ELF 2K Disk for ELF II Board** Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).    
-* **VIP Personality Board** to VIP an ELF (in development).
-* **Protoboard** Full sized expansion card with 86 position edge connection for prototyping cicuitry. 
+   * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/Hyperboard/AVIELF2HYPERBOARD-SCH.pdf).
+   * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/Hyperboard/AVIELF2HYPERBOARD-Gerbers.zip). 
+* **ELF 2K Disk for ELF II Board** Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).
+   * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELFSTGDISK0/AVIELFSTGDISK0-SCH.pdf). 
+   * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELFSTGDISK0/AVIELFSTGDISK0-Gerbers.zip).
+* **ELF II SD Card** 128K RAM, 32K EEPROM, SD Card
+   * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2SD/AVIELF2SD-SCH.pdf)
+   * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2SD/AVIELF2SDv1-Gerbers.zip)  
+* **VIP Keyboard For ELF II** to VIP an ELF (in development).
+   * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2-VIP/AVIELF2-VIP-SCH.pdf). 
+   * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2-VIP/AVIELF2-VIP-Gerbers.zip).  
+* **Protoboard** Full sized expansion card with 86 position edge connection for prototyping cicuitry.
+   * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2Prototyping/AVIELF2Prototyping-Gerbers.zip). 
