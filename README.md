@@ -23,7 +23,7 @@ This project is ongoing with the support of [Josh Bensadon](https://github.com/J
 * Optional raised display boards for TIL 311 or Dot Matrix Address and Data Displays. 
 
 ### Build Notes & Assembly Manual
-* [AVI ELF II Wiki](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Detailed-Assembly-Notes)
+* [Detailed Assembly Notes](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Detailed-Assembly-Notes)
 
 ### Design Files:
 * [Schematic](notes/ELF-II/AVIELF2v1-Sch.pdf)
