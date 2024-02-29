@@ -37,7 +37,7 @@ Several Expansion boards have been designed to enhance and extend the ELF II. Th
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/Hyperboard/AVIELF2HYPERBOARD-SCH.pdf).
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/Hyperboard/AVIELF2HYPERBOARD-Gerbers.zip).
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-Hyperboard-Expansion-Card-Assembly-Notes).
-* **ELF 2K Disk for ELF II Board** Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).
+* **ELF 2K Disk for ELF II Card** Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELFSTGDISK0/AVIELFSTGDISK0-SCH.pdf). 
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELFSTGDISK0/AVIELFSTGDISK0-Gerbers.zip).
 * **ELF II SD Card** 128K RAM, 32K EEPROM, SD Card
