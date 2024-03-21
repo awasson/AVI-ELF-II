@@ -37,6 +37,9 @@ Several Expansion boards have been designed to enhance and extend the ELF II. Th
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/Hyperboard/AVIELF2HYPERBOARD-SCH.pdf).
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/Hyperboard/AVIELF2HYPERBOARD-Gerbers.zip).
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-Hyperboard-Expansion-Card-Assembly-Notes).
+* **ELF II LED Matrix Display** A duaghter card display board that plugs in directly in front of the Hex keypad to provide an updated, larger, dot matrix display providing 4 digit address and 2 digit data, plus additional messaging to indicate load mode and reset.
+   * [Get the schematics here]([https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-SCH.pdf](https://github.com/awasson/AVI-ELF-II/blob/d58185ccbfacd12410af62a62a0e43cace9a93d8/notes/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-SCH.pdf)). 
+   * [Get the Gerber Files here]([https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-Gerbers.zip](https://github.com/awasson/AVI-ELF-II/blob/d58185ccbfacd12410af62a62a0e43cace9a93d8/gerbers/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-Gerbers.zip)).
 * **ELF 2K Disk for ELF II Card** Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELFSTGDISK0/AVIELFSTGDISK0-SCH.pdf). 
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELFSTGDISK0/AVIELFSTGDISK0-Gerbers.zip).
