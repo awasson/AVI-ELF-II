@@ -50,6 +50,7 @@ Several Expansion boards have been designed to enhance and extend the ELF II. Th
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2SD/AVIELF2SDv1-Gerbers.zip)  
 * **VIP Keyboard For ELF II** to VIP an ELF (in development).
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2-VIP/AVIELF2-VIP-SCH.pdf). 
-   * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2-VIP/AVIELF2-VIP-Gerbers.zip).  
+   * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2-VIP/AVIELF2-VIP-Gerbers.zip).
+   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/VIP-Keyboard-for-The-AVI-ELF-II-Board-Assembly-Notes) 
 * **Protoboard** Full sized expansion card with 86 position edge connection for prototyping cicuitry.
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2Prototyping/AVIELF2Prototyping-Gerbers.zip). 
