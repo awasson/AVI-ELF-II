@@ -35,6 +35,7 @@ This project is ongoing with the support of [Josh Bensadon](https://github.com/J
 Aside from the novelty of having a retro-replica of one of the most sought after Cosmac ELF variants, the fun begins when you add expansion boards to add features and extend the capabilities of the ELF II microcomputer. Several Expansion boards have been designed to enhance and extend the ELF II. These were designed primarily for use with the AVI ELF II but it is quite possible that many will work with an orginal Netronics ELF II. 
 
 * **AVI Hyperboard Expansion Card** With 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area. The Hyperboard is a decendant of the Netronics ELF II Giant Board; however, the AVI Hyperboard includes modern enhancements for additional RAM and EEPROM, input/output ports and serial connections.\
+![IMG_0573](https://github.com/awasson/AVI-ELF-II/assets/2935397/77b05e52-6b2e-4bde-aac2-5f38c68dee1f)\
 \
 If you are looking for an "old school" ELF II experience, you might choose to build the **Hyperboard** and set it up to use one of the period monitor programs like UT4, Giant Monitor or something similar. It will enable the cassette load/save features on the ELF II and provide all of the memory management tools that would have been desireable in the late 1970's, when the ELF II was cutting edge computing technology. The Hyperboard also provides a foundation for running modern more advanced packages with a serial connection like Bob Armstrong's Spare Time Gizmos ELF2K firmware, Mike Riley's PicoELF Diskless OS firmware and Lee Hart's Membership Card Firmware.\
 \
@@ -43,7 +44,8 @@ The build instructions and documentation for this card is complete and we are cu
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/Hyperboard/AVIELF2HYPERBOARD-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-Hyperboard-Expansion-Card-Assembly-Notes)
 
-* **ELF II LED Matrix Display** A plugin display board that is located directly in front of the Hex keypad, replacing the original LED data display to provide an updated, larger, dot matrix display with 4 digit address and 2 digit data, plus additional messaging to indicate load mode and reset.
+* **ELF II LED Matrix Display** A plugin display board that is located directly in front of the Hex keypad, replacing the original LED data display to provide an updated, larger, dot matrix display with 4 digit address and 2 digit data, plus additional messaging to indicate load mode and reset.\
+![IMG_0525](https://github.com/awasson/AVI-ELF-II/assets/2935397/a10764d0-b321-4a0f-b28f-4fa1ee764155)\
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-SCH.pdf) 
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/d58185ccbfacd12410af62a62a0e43cace9a93d8/gerbers/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-Gerbers.zip)
    * [Get the Hex file for programming the Two PIC 16F1826 Chips](https://github.com/awasson/AVI-ELF-II/blob/19ecfcae0258084bfbac0fc2b84b086628049ee4/notes/AVIELF2DISPLAYMAX7219/HexDisp.HEX)
