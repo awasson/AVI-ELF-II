@@ -56,7 +56,7 @@ The build instructions and documentation for this card is complete and we are cu
 
 * **ELF II SD Card** 128K RAM, 32K EEPROM, SD Card
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2SD/AVIELF2SD-SCH.pdf)
-   * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2SD/AVIELF2SDv1-Gerbers.zip)
+   * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2SD/AVIELF2SD-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-SD-Card-Detailed-Assembly-Notes)
  
 * **VIP Keyboard For ELF II** to VIP an ELF (in development).
