@@ -56,13 +56,17 @@ A plugin display board that is located directly in front of the Hex keypad, repl
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-LED-Matrix-Display-Assembly-Notes)
 
 * **ELF 2K Disk for ELF II Card**\
-Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (in development/testing).
+Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (Assembly Instructions in progress).\
+\
+![IMG STG CARD](notes/AVIELFSTGDISK0/AVIELFSTGDISK0.jpg)
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELFSTGDISK0/AVIELFSTGDISK0-SCH.pdf)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELFSTGDISK0/AVIELFSTGDISK0-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-2K-Disk-for-ELF-II-Card-Assembly-Notes)
 
 * **ELF II SD Card**\
-128K RAM, 32K EEPROM, SD Card
+128K RAM, 32K EEPROM, SD Card\
+\
+![IMG SD CARD](notes/AVIELF2SD/AVIELF2SD.jpg)
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2SD/AVIELF2SD-SCH.pdf)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2SD/AVIELF2SD-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-SD-Card-Detailed-Assembly-Notes)
@@ -70,15 +74,20 @@ Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" t
 * **VIP Keyboard For ELF II**\
 VIP an ELF II\
 \
-![IMG_0629](https://github.com/awasson/AVI-ELF-II/assets/2935397/8f745678-da3d-423e-ba78-a248efb43296)\
+![IMG_0629](https://github.com/awasson/AVI-ELF-II/assets/2935397/8f745678-da3d-423e-ba78-a248efb43296)
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2-VIP/AVIELF2-VIP-SCH.pdf)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2-VIP/AVIELF2-VIP-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/VIP-Keyboard-for-The-AVI-ELF-II-Board-Assembly-Notes)
  
-* **VIP Secondary Keyboard for ELF II** for multiplayer support
+* **VIP Secondary Keyboard for ELF II**\
+For use with VIP Keyboard for ELF II as shown above for multiplayer game support.
+\
+![IMG VIP AUX KEYPAD](notes/AVIELF2-VIP/AVIELF2-VIP2.jpg)
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2-VIP/AVIELF2-VIP2-SCH.pdf)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2-VIP/AVIELF2-VIP2-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/VIP-Secondary-Keyboard-for-The-AVI-ELF-II-Board-Assembly-Notes)
 
-* **Protoboard** Full sized expansion card with 86 position edge connection for prototyping cicuitry.
+* **Protoboard**\
+Full sized expansion card with 86 position edge connection for prototyping cicuitry.\
+![IMG PROTOBOARD](notes/AVIELF2Prototyping/AVIELF2Prototyping.jpg)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2Prototyping/AVIELF2Prototyping-Gerbers.zip). 
