@@ -80,7 +80,7 @@ VIP an ELF II\
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/VIP-Keyboard-for-The-AVI-ELF-II-Board-Assembly-Notes)
  
 * **VIP Secondary Keyboard for ELF II**\
-For use with VIP Keyboard for ELF II as shown above for multiplayer game support.
+For use with VIP Keyboard for ELF II as shown above for multiplayer game support.\
 \
 ![IMG VIP AUX KEYPAD](notes/AVIELF2-VIP/AVIELF2-VIP2.jpg)
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2-VIP/AVIELF2-VIP2-SCH.pdf)
@@ -89,5 +89,6 @@ For use with VIP Keyboard for ELF II as shown above for multiplayer game support
 
 * **Protoboard**\
 Full sized expansion card with 86 position edge connection for prototyping cicuitry.\
+\
 ![IMG PROTOBOARD](notes/AVIELF2Prototyping/AVIELF2Prototyping.jpg)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2Prototyping/AVIELF2Prototyping-Gerbers.zip). 
