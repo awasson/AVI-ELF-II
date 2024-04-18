@@ -66,7 +66,7 @@ Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" t
 * **ELF II SD Card**\
 128K RAM, 32K EEPROM, SD Card\
 \
-![IMG SD CARD](notes/AVIELF2SD/AVIELF2SD.jpg)
+![ELF II SD Card Image](https://github.com/awasson/AVI-ELF-II/assets/2935397/98062211-f7fe-47b1-995b-0dfa917cf243)
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2SD/AVIELF2SD-SCH.pdf)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2SD/AVIELF2SD-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-SD-Card-Detailed-Assembly-Notes)
