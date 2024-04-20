@@ -37,11 +37,9 @@ Aside from the novelty of having a retro-replica of one of the most sought after
 * **AVI Hyperboard Expansion Card**\
 The Hyperboard is a modern take on the Netronics ELF II Giant Board which includes additional RAM and EEPROM, input/output ports and serial connections with 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area.\
 \
-If your goal for the AVI ELF II is a fully expanded period computer from the late 1970's, the Hyperboard is a good addition to begin with. The Hyperboard will run new firmware readily and also runs period software including the Netronics Giant Monitor for automating entry, inspection and running programs. The Hyperboard also enables loading and saving programs from cassete tape.\
-\
 ![IMG_0573](https://github.com/awasson/AVI-ELF-II/assets/2935397/77b05e52-6b2e-4bde-aac2-5f38c68dee1f)\
 \
-If you are looking for an "old school" ELF II experience, you might choose to build the **Hyperboard** and set it up to use one of the period monitor programs like UT4, Giant Monitor or something similar. It will enable the cassette load/save features on the ELF II and provide all of the memory management tools that would have been desireable in the late 1970's, when the ELF II was cutting edge computing technology. The Hyperboard also provides a foundation for running modern more advanced packages with a serial connection like Bob Armstrong's Spare Time Gizmos ELF2K firmware, Mike Riley's PicoELF Diskless OS firmware and Lee Hart's Membership Card Firmware.\
+If your goal for the AVI ELF II is a fully expanded period computer from the late 1970's, the Hyperboard is a good addition to begin with. The Hyperboard will run new firmware readily and also runs period software including the Netronics Giant Monitor for automating entry, inspection and running programs. The Hyperboard also enables loading and saving programs from cassete tape.\
 \
 The build instructions and documentation for this card is complete and we are curently writing documentation on the various use cases of using the Hyperboard with a variety of old and new software packages. We are continually updating the Build Notes and Assembly Manual on the Wiki.
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/Hyperboard/AVIELF2HYPERBOARD-SCH.pdf)
