@@ -64,7 +64,9 @@ Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" t
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-2K-Disk-for-ELF-II-Card-Assembly-Notes)
 
 * **ELF II SD Card**\
-128K RAM, 32K EEPROM, SD Card\
+With 128K RAM, 32K EEPROM, TTL and Serial terminal connections and an SD Card for storage, the ELF II SD Card board provides the electronics and software to turn your AVI ELF II into a powerful RCA VIP compatible machine that is capable of reading, loading and running your software library of VIP and Chip8 programs just like the original RCA VIP.\
+\
+**Note:** For full VIP compatibility, the VIP Keyboard For ELF II described below is required.\
 \
 ![ELF II SD Card Image](https://github.com/awasson/AVI-ELF-II/assets/2935397/98062211-f7fe-47b1-995b-0dfa917cf243)
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2SD/AVIELF2SD-SCH.pdf)
@@ -72,7 +74,7 @@ Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" t
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-SD-Card-Detailed-Assembly-Notes)
  
 * **VIP Keyboard For ELF II**\
-VIP an ELF II\
+The VIP Keyboard for ELF II is the companion card for the ELF II SD Card described above, providing the correct keyboard orientation and mapping for the RCA VIP system with a Q LED and a micro speaker to play the beeps tones and notifications that the original VIP plays.\
 \
 <img src="https://github.com/awasson/AVI-ELF-II/blob/8b53b2ec36446c2e50bac4996d5d2eec87617d4d/photos/IMG_0656.jpeg" width="50%" />\
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2-VIP/AVIELF2-VIP-SCH.pdf)
