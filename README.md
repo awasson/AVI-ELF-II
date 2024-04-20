@@ -41,7 +41,6 @@ The Hyperboard is a modern take on the Netronics ELF II Giant Board which includ
 \
 If your goal for the AVI ELF II is a fully expanded period computer from the late 1970's, the Hyperboard is a good addition to begin with. The Hyperboard will run new firmware readily and also runs period software including the Netronics Giant Monitor for automating entry, inspection and running programs. The Hyperboard also enables loading and saving programs from cassete tape.\
 \
-The build instructions and documentation for this card is complete and we are curently writing documentation on the various use cases of using the Hyperboard with a variety of old and new software packages. We are continually updating the Build Notes and Assembly Manual on the Wiki.
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/Hyperboard/AVIELF2HYPERBOARD-SCH.pdf)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/Hyperboard/AVIELF2HYPERBOARD-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-Hyperboard-Expansion-Card-Assembly-Notes)
