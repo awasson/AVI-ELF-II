@@ -35,7 +35,9 @@ This project is ongoing with the support of [Josh Bensadon](https://github.com/J
 Aside from the novelty of having a retro-replica of one of the most sought after Cosmac ELF variants, the fun begins when you add expansion boards to add features and extend the capabilities of the ELF II microcomputer. Several Expansion boards have been designed to enhance and extend the ELF II. These were designed primarily for use with the AVI ELF II but it is quite possible that many will work with an orginal Netronics ELF II. 
 
 * **AVI Hyperboard Expansion Card**\
-The Hyperboard is a modern take on the Netronics ELF II Giant Board which includes additional RAM and EEPROM, input/output ports and serial connections with 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area. If your goal for the AVI ELF II is a fully expanded period computer from the late 1970's, the Hypervoard would be a good addition to begin with; it will run new firmware quite readily but it also runs period software including the Netronics Giant Monitor for automating the entry, inspection and runnig of programs as well as for the loading and saving of programs from cassete tape.\
+The Hyperboard is a modern take on the Netronics ELF II Giant Board which includes additional RAM and EEPROM, input/output ports and serial connections with 32KB RAM / 32KB EPROM, CD1852 Byte-Wide Input/Output Ports, CD1854 UART, Cassette IN/OUT with proto area.\
+\
+If your goal for the AVI ELF II is a fully expanded period computer from the late 1970's, the Hyperboard is a good addition to begin with; it will run new firmware readily and also runs period software including the Netronics Giant Monitor for automating entry, inspection and running programs. The Hyperboard also enables loading and saving programs from cassete tape.\
 \
 ![IMG_0573](https://github.com/awasson/AVI-ELF-II/assets/2935397/77b05e52-6b2e-4bde-aac2-5f38c68dee1f)\
 \
