@@ -39,7 +39,7 @@ The Hyperboard is a modern take on the Netronics ELF II Giant Board which includ
 \
 ![IMG_0573](https://github.com/awasson/AVI-ELF-II/assets/2935397/77b05e52-6b2e-4bde-aac2-5f38c68dee1f)\
 \
-If your goal for the AVI ELF II is a fully expanded period computer from the late 1970's, the Hyperboard is a good addition to begin with. The Hyperboard will run new firmware readily and also runs period software including the Netronics Giant Monitor for automating entry, inspection and running programs. The Hyperboard also enables loading and saving programs from cassete tape.
+If the goal for your AVI ELF II is a fully expanded period computer from the late 1970's, the Hyperboard is a good addition to begin with. The Hyperboard will run new firmware readily and also runs period software including the Netronics Giant Monitor for automating entry, inspection and running programs. The Hyperboard also enables loading and saving programs from cassete tape.
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/Hyperboard/AVIELF2HYPERBOARD-SCH.pdf)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/Hyperboard/AVIELF2HYPERBOARD-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-Hyperboard-Expansion-Card-Assembly-Notes)
@@ -56,7 +56,9 @@ A plugin display board that is located directly in front of the Hex keypad, repl
 * **ELF 2K Disk for ELF II Card**\
 Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (Assembly Instructions in progress).\
 \
-![IMG STG CARD](photos/IMG_0655.jpeg)
+![IMG STG CARD](photos/IMG_0655.jpeg)\
+\
+If the goal for your AVI ELF II is to have a retro-modern 1802 system capable of running the ELF/OS disk operating system, using a compact flash card as a hard drive with a RS232 Serial connection up to BAUD 19200 and a real time clock, the ELF 2K for ELF II card covers all of the bases to get you there and the STG firmware provides additional system tools and programming languages. 
    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELFSTGDISK0/AVIELFSTGDISK0-SCH.pdf)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELFSTGDISK0/AVIELFSTGDISK0-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-2K-Disk-for-ELF-II-Card-Assembly-Notes)
