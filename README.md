@@ -92,5 +92,5 @@ For use with VIP Keyboard for ELF II as shown above for multiplayer game support
 * **Protoboard**\
 Full sized expansion card with 86 position edge connection for prototyping cicuitry.\
 \
-![IMG PROTOBOARD](notes/AVIELF2Prototyping/AVIELF2Prototyping.jpg)
+![IMG_0729](https://github.com/awasson/AVI-ELF-II/assets/2935397/44bb46ae-ec6e-4632-8ffc-c2a9964ae5e1)
    * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2Prototyping/AVIELF2Prototyping-Gerbers.zip). 
