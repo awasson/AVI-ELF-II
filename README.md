@@ -22,6 +22,20 @@ This project is ongoing with the support of [Josh Bensadon](https://github.com/J
 * Onboard Data Display options for original HP 5082-7740 7-Segment Displays or HP 5082-7340 Dot Matrix LED Display.
 * Optional raised display boards for TIL 311 or Dot Matrix Address and Data Displays. 
 
+### What does it do?
+Initially, we approached this project with the goal to faithfully reporduce the original Netronics ELF II with added flexibility to choose several LED display types, maximize user RAM for programs and use modern keyswitches. We also planned to add a modern equivalent of the Netronics Giant Board called the Hyperboard. As we workeed through development and testing, we realized that the ELF II provides the perfect springboard to support a variety of 1802 powered systems.
+
+**A faithful reproduction of the original ELF II**\
+If all you are looking for is a journey back to the late 70's, with a trusty ELF II and all of the RAM you could possibly use then, the AVI ELF II main board is all you need. It will respond and function as an exact replica of the original and if you squint at it from several feet away, it looks pretty close to the real McCoy. If you want to have the expansion possibilities that you would have enjoyed with the original system expanded with a Netronics Giant Board and the Giant Monitor, you can add a AVI Hyperboard to the mix.   
+
+**An ELF2K compatible ELF/OS machine with the Aesthetics and features of the ELF II platform**\
+Uses the STG ELF2K to ELF II board described below.\
+More details to come... 
+
+**An RCA VIP Capable ELF II**\
+Uses the ELF II SD Card and VIP Keyboard For ELF II described below.\
+More details to come... 
+
 ### Build Notes & Assembly Manual
 * [Detailed Assembly Notes](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Detailed-Assembly-Notes)
 
