@@ -18,6 +18,7 @@ This project is ongoing with the support of [Josh Bensadon](https://github.com/J
 * 32KB on-board RAM with ability to adjust RAM size from 256 Bytes to 32KB.
 * Optional onboard RAM battery backup.
 * Keypad uses modern Cherry MX compatible keyswitches.
+* The keypad input switch has improved debouncing over the original ELF II keypad.
 * Optional raised Keypad to approximate height of keypad on the original Netronics ELF II.
 * Onboard Data Display options for original HP 5082-7740 7-Segment Displays or HP 5082-7340 Dot Matrix LED Display.
 * Optional raised display boards for TIL 311 or Dot Matrix Address and Data Displays. 
