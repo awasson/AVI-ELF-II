@@ -112,3 +112,11 @@ A plugin display board that is located directly in front of the Hex keypad, repl
    * [Get the Gerber Files here](gerbers/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-Gerbers.zip)
    * [Get the Hex file for programming the Two PIC 16F1826 Chips](notes/AVIELF2DISPLAYMAX7219/HexDisp.HEX)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-LED-Matrix-Display-Assembly-Notes)
+
+* **AVI ELF II TIL311 6-Digit Display Card**\
+A plugin display board that is located directly in front of the Hex keypad, replacing the original LED data display to provide a 6-digit display using the TIl311 displays with 4 digit address and 2 digit data.\
+\
+<img src="notes/TIL311-6DIGIT-DISPLAY/AVI ELF II TIL311 6-Digit Display Card.jpeg" width="50%" />\
+   * [Get the schematics here](notes/TIL311-6DIGIT-DISPLAY/AVI ELF II TIL311 6-Digit Display Card.pdf) 
+   * [Get the Gerber Files here](gerbers/TIL311-6DIGIT-DISPLAY/gerbers.zip)
+   * Build Notes and Assembly Manual in progress.
