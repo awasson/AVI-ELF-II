@@ -30,7 +30,7 @@ Initially, we approached this project with the goal to faithfully reporduce the 
 If all you are looking for is a journey back to the late 70's, with a trusty ELF II and all of the RAM you could possibly use then, the AVI ELF II main board is all you need. It will respond and function as an exact replica of the original and if you squint at it from several feet away, it looks pretty close to the real McCoy. If you want to have the expansion possibilities that you would have enjoyed with the original system expanded with a Netronics Giant Board and the Giant Monitor, you can add a AVI Hyperboard to the mix.   
 
 **An ELF2K compatible ELF/OS machine with the Aesthetics and features of the ELF II platform**\
-Uses the STG ELF2K to ELF II board described below.\
+Uses the STG ELF2K to ELF II board and AVI ELF II TIL311 6-Digit Display Card described below.\
 More details to come... 
 
 **An RCA VIP Capable ELF II**\
