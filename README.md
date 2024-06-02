@@ -62,6 +62,16 @@ If the goal for your AVI ELF II is a fully expanded period computer from the lat
    * [Get the Gerber Files here](gerbers/Hyperboard/AVIELF2HYPERBOARD-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-Hyperboard-Expansion-Card-Assembly-Notes)
 
+* **STG ELF 2K Disk for ELF II Card**\
+Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (Assembly Instructions in progress).\
+\
+![IMG STG CARD](photos/IMG_0655.jpeg)\
+\
+If the goal for your AVI ELF II is to have a retro-modern 1802 system capable of running the ELF/OS disk operating system, using a compact flash card as a hard drive with a RS232 Serial connection up to BAUD 19200 and a real time clock, the ELF 2K for ELF II card covers all of the bases to get you there and the STG firmware provides additional system tools and programming languages. 
+   * [Get the schematics here](notes/AVIELFSTGDISK0/AVIELFSTGDISK0-SCH.pdf)
+   * [Get the Gerber Files here](gerbers/AVIELFSTGDISK0/AVIELFSTGDISK0-Gerbers.zip)
+   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/STG-ELF-2K-Disk-for-ELF-II-Card-Assembly-Notes)
+
 * **ELF II SD Card**\
 With 128K RAM, 32K EEPROM, TTL and Serial terminal connections and an SD Card for storage, the ELF II SD Card board provides the electronics and software to turn your AVI ELF II into a powerful RCA VIP compatible machine that is capable of reading, loading and running your software library of VIP and Chip8 programs just like the original RCA VIP.\
 \
@@ -102,13 +112,3 @@ A plugin display board that is located directly in front of the Hex keypad, repl
    * [Get the Gerber Files here](gerbers/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-Gerbers.zip)
    * [Get the Hex file for programming the Two PIC 16F1826 Chips](notes/AVIELF2DISPLAYMAX7219/HexDisp.HEX)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-LED-Matrix-Display-Assembly-Notes)
-
-* **STG ELF 2K Disk for ELF II Card**\
-Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (Assembly Instructions in progress).\
-\
-![IMG STG CARD](photos/IMG_0655.jpeg)\
-\
-If the goal for your AVI ELF II is to have a retro-modern 1802 system capable of running the ELF/OS disk operating system, using a compact flash card as a hard drive with a RS232 Serial connection up to BAUD 19200 and a real time clock, the ELF 2K for ELF II card covers all of the bases to get you there and the STG firmware provides additional system tools and programming languages. 
-   * [Get the schematics here](notes/AVIELFSTGDISK0/AVIELFSTGDISK0-SCH.pdf)
-   * [Get the Gerber Files here](gerbers/AVIELFSTGDISK0/AVIELFSTGDISK0-Gerbers.zip)
-   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/STG-ELF-2K-Disk-for-ELF-II-Card-Assembly-Notes)
