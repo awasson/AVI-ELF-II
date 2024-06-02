@@ -36,6 +36,9 @@ More details to come...
 Uses the ELF II SD Card and VIP Keyboard For ELF II described below.\
 More details to come... 
 
+**An RCA Studio II Capable ELF II**\
+In development. Will require the VIP Keyboard for ELF II and secondary VIP Keyboard for ELF II + the Hyperboar or ELF II SD Card board. More to come. 
+
 ### Build Notes & Assembly Manual
 * [Detailed Assembly Notes](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Detailed-Assembly-Notes)
 
