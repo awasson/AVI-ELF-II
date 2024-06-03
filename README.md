@@ -101,7 +101,7 @@ For use with VIP Keyboard for ELF II as shown above for multiplayer game support
 * **AVI ELF II Cassette Interface Card**\
 An expansion card to add the ability to load and save programs to cassette tape using the Cassette In | Out jacks on the ELF II main board or Cassette In | Out on the cassette board itself. This makes a useful companion board for the ELF II SD Card for loading and saving VIP programs and data to cassette.\
 \
-<img src="notes/AVIELFIICASSETTEINTERFACE/CassetteCard.png" width="100%" />
+![IMG VAVI ELF II Cassette Interface Card](notes/AVIELFIICASSETTEINTERFACE/CassetteCard.png)
    * [Get the schematics here](notes/AVIELFIICASSETTEINTERFACE/ELFIICassetteCircuitSchematic.pdf) 
    * [Get the Gerber Files here](gerbers/AVIELFIICASSETTEINTERFACE/gerbers.zip)
    * Build Notes and Assembly Manual in progress.
@@ -110,12 +110,12 @@ An expansion card to add the ability to load and save programs to cassette tape 
 Full sized expansion card with 86 position edge connection for prototyping cicuitry.\
 \
 ![IMG_0729](https://github.com/awasson/AVI-ELF-II/assets/2935397/44bb46ae-ec6e-4632-8ffc-c2a9964ae5e1)
-   * [Get the Gerber Files here](gerbers/AVIELF2Prototyping/AVIELF2Prototyping-Gerbers.zip). 
+   * [Get the Gerber Files here](gerbers/AVIELF2Prototyping/AVIELF2Prototyping-Gerbers.zip) 
 
 * **ELF II LED Matrix Display**\
 A plugin display board that is located directly in front of the Hex keypad, replacing the original LED data display to provide an updated, larger, dot matrix display with 4 digit address and 2 digit data, plus additional messaging to indicate load mode and reset.\
 \
-<img src="https://github.com/awasson/AVI-ELF-II/assets/2935397/a10764d0-b321-4a0f-b28f-4fa1ee764155" width="50%" />
+<img src="https://github.com/awasson/AVI-ELF-II/assets/2935397/a10764d0-b321-4a0f-b28f-4fa1ee764155" width="50%" /><br/>
    * [Get the schematics here](notes/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-SCH.pdf) 
    * [Get the Gerber Files here](gerbers/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-Gerbers.zip)
    * [Get the Hex file for programming the Two PIC 16F1826 Chips](notes/AVIELF2DISPLAYMAX7219/HexDisp.HEX)
@@ -124,7 +124,7 @@ A plugin display board that is located directly in front of the Hex keypad, repl
 * **AVI ELF II TIL311 6-Digit Display Card**\
 A plugin display board that is located directly in front of the Hex keypad, replacing the original LED data display to provide a 6-digit display using the TIl311 displays with 4 digit address and 2 digit data.\
 \
-<img src="notes/TIL311-6DIGIT-DISPLAY/AVI ELF II TIL311 6-Digit Display Card.jpeg" width="50%" />
+<img src="notes/TIL311-6DIGIT-DISPLAY/AVI ELF II TIL311 6-Digit Display Card.jpeg" width="50%" /><br/>
    * [Get the schematics here](notes/TIL311-6DIGIT-DISPLAY/AVI%20ELF%20II%20TIL311%206-Digit%20Display%20Card.pdf) 
    * [Get the Gerber Files here](gerbers/TIL311-6DIGIT-DISPLAY/gerbers.zip)
    * Build Notes and Assembly Manual in progress.
