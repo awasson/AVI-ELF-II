@@ -99,7 +99,7 @@ For use with VIP Keyboard for ELF II as shown above for multiplayer game support
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/VIP-Secondary-Keyboard-for-The-AVI-ELF-II-Board-Assembly-Notes)
 
 * **AVI ELF II Cassette Interface Card**\
-An expansion cart to add the ability to load and save programs to cassette tape using the Cassette In / Cassette Out jacks on the ELF II main board or Cassette In / Cassette Out on the cassette board itself. This makes a good companion board for the ELF II SD Card for loading and saving VIP cards on cassette.\
+An expansion card to add the ability to load and save programs to cassette tape using the Cassette In | Out jacks on the ELF II main board or Cassette In | Out on the cassette board itself. This makes a useful companion board for the ELF II SD Card for loading and saving VIP programs and data to cassette.\
 \
 <img src="notes/AVIELFIICASSETTEINTERFACE/CassetteCard.png" width="100%" />\
    * [Get the schematics here](notes/AVIELFIICASSETTEINTERFACE/ELFIICassetteCircuitSchematic.pdf) 
