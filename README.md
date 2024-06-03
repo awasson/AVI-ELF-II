@@ -60,7 +60,7 @@ The Hyperboard is a modern take on the Netronics ELF II Giant Board which includ
 If the goal for your AVI ELF II is a fully expanded period computer from the late 1970's, the Hyperboard is a good addition to begin with. The Hyperboard will run new firmware readily and also runs period software including the Netronics Giant Monitor for automating entry, inspection and running programs. The Hyperboard also enables loading and saving programs from cassete tape.
    * [Get the schematics here](notes/Hyperboard/AVIELF2HYPERBOARD-SCH.pdf)
    * [Get the Gerber Files here](gerbers/Hyperboard/AVIELF2HYPERBOARD-Gerbers.zip)
-   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-Hyperboard-Expansion-Card-Assembly-Notes)
+   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-Hyperboard-Expansion-Card-Assembly-Notes)<br/><br/>
 
 * **STG ELF 2K Disk for ELF II Card**\
 Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" to use with the ELF/OS Disk Operating System. Provides 32KB RAM / 32KB EPROM, 16C450 UART, Serial Communications with FTDI connections, USB FT232RL device, IDE connection, CF Card socket and Real Time Clock chip (Assembly Instructions in progress).\
@@ -70,7 +70,7 @@ Uses Spare Time Gizmos ELF 2K Firmware to add a Compact Flash Card "Hard Disk" t
 If the goal for your AVI ELF II is to have a retro-modern 1802 system capable of running the ELF/OS disk operating system, using a compact flash card as a hard drive with a RS232 Serial connection up to BAUD 19200 and a real time clock, the ELF 2K for ELF II card covers all of the bases to get you there and the STG firmware provides additional system tools and programming languages. 
    * [Get the schematics here](notes/AVIELFSTGDISK0/AVIELFSTGDISK0-SCH.pdf)
    * [Get the Gerber Files here](gerbers/AVIELFSTGDISK0/AVIELFSTGDISK0-Gerbers.zip)
-   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/STG-ELF-2K-Disk-for-ELF-II-Card-Assembly-Notes)
+   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/STG-ELF-2K-Disk-for-ELF-II-Card-Assembly-Notes)<br/><br/>
 
 * **ELF II SD Card**\
 With 128K RAM, 32K EEPROM, TTL and Serial terminal connections and an SD Card for storage, the ELF II SD Card board provides the electronics and software to turn your AVI ELF II into a powerful RCA VIP compatible machine that is capable of reading, loading and running your software library of VIP and Chip8 programs just like the original RCA VIP.\
@@ -80,7 +80,7 @@ With 128K RAM, 32K EEPROM, TTL and Serial terminal connections and an SD Card fo
 ![ELF II SD Card Image](https://github.com/awasson/AVI-ELF-II/assets/2935397/98062211-f7fe-47b1-995b-0dfa917cf243)
    * [Get the schematics here](notes/AVIELF2SD/AVIELF2SD-SCH.pdf)
    * [Get the Gerber Files here](gerbers/AVIELF2SD/AVIELF2SD-Gerbers.zip)
-   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-SD-Card-Detailed-Assembly-Notes)
+   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-SD-Card-Detailed-Assembly-Notes)<br/><br/>
  
 * **VIP Keyboard For ELF II**\
 The VIP Keyboard for ELF II is the companion card for the ELF II SD Card described above, providing the correct keyboard orientation and mapping for the RCA VIP system with a Q LED and a micro speaker to play the beeps tones and notifications that the original VIP plays.\
@@ -88,7 +88,7 @@ The VIP Keyboard for ELF II is the companion card for the ELF II SD Card describ
 <img src="https://github.com/awasson/AVI-ELF-II/blob/8b53b2ec36446c2e50bac4996d5d2eec87617d4d/photos/IMG_0656.jpeg" width="50%" />\
    * [Get the schematics here](notes/AVIELF2-VIP/AVIELF2-VIP-SCH.pdf)
    * [Get the Gerber Files here](gerbers/AVIELF2-VIP/AVIELF2-VIP-Gerbers.zip)
-   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/VIP-Keyboard-for-The-AVI-ELF-II-Board-Assembly-Notes)
+   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/VIP-Keyboard-for-The-AVI-ELF-II-Board-Assembly-Notes)<br/><br/>
  
 * **VIP Secondary Keyboard for ELF II**\
 For use with VIP Keyboard for ELF II as shown above for multiplayer game support.\
@@ -96,7 +96,7 @@ For use with VIP Keyboard for ELF II as shown above for multiplayer game support
 ![IMG VIP AUX KEYPAD](notes/AVIELF2-VIP/AVIELF2-VIP2.jpg)
    * [Get the schematics here](notes/AVIELF2-VIP/AVIELF2-VIP2-SCH.pdf)
    * [Get the Gerber Files here](gerbers/AVIELF2-VIP/AVIELF2-VIP2-Gerbers.zip)
-   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/VIP-Secondary-Keyboard-for-The-AVI-ELF-II-Board-Assembly-Notes)
+   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/VIP-Secondary-Keyboard-for-The-AVI-ELF-II-Board-Assembly-Notes)<br/><br/>
 
 * **AVI ELF II Cassette Interface Card**\
 An expansion card to add the ability to load and save programs to cassette tape using the Cassette In | Out jacks on the ELF II main board or Cassette In | Out on the cassette board itself. This makes a useful companion board for the ELF II SD Card for loading and saving VIP programs and data to cassette.\
@@ -104,13 +104,13 @@ An expansion card to add the ability to load and save programs to cassette tape 
 ![IMG VAVI ELF II Cassette Interface Card](notes/AVIELFIICASSETTEINTERFACE/CassetteCard.png)
    * [Get the schematics here](notes/AVIELFIICASSETTEINTERFACE/ELFIICassetteCircuitSchematic.pdf) 
    * [Get the Gerber Files here](gerbers/AVIELFIICASSETTEINTERFACE/gerbers.zip)
-   * Build Notes and Assembly Manual in progress.
+   * Build Notes and Assembly Manual in progress.<br/><br/>
 
 * **Protoboard**\
 Full sized expansion card with 86 position edge connection for prototyping cicuitry.\
 \
 ![IMG_0729](https://github.com/awasson/AVI-ELF-II/assets/2935397/44bb46ae-ec6e-4632-8ffc-c2a9964ae5e1)
-   * [Get the Gerber Files here](gerbers/AVIELF2Prototyping/AVIELF2Prototyping-Gerbers.zip) 
+   * [Get the Gerber Files here](gerbers/AVIELF2Prototyping/AVIELF2Prototyping-Gerbers.zip)<br/><br/>
 
 * **ELF II LED Matrix Display**\
 A plugin display board that is located directly in front of the Hex keypad, replacing the original LED data display to provide an updated, larger, dot matrix display with 4 digit address and 2 digit data, plus additional messaging to indicate load mode and reset.\
@@ -119,7 +119,7 @@ A plugin display board that is located directly in front of the Hex keypad, repl
    * [Get the schematics here](notes/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-SCH.pdf) 
    * [Get the Gerber Files here](gerbers/AVIELF2DISPLAYMAX7219/AVIELF2DISPLAYMAX7219-Gerbers.zip)
    * [Get the Hex file for programming the Two PIC 16F1826 Chips](notes/AVIELF2DISPLAYMAX7219/HexDisp.HEX)
-   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-LED-Matrix-Display-Assembly-Notes)
+   * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-LED-Matrix-Display-Assembly-Notes)<br/><br/>
 
 * **AVI ELF II TIL311 6-Digit Display Card**\
 A plugin display board that is located directly in front of the Hex keypad, replacing the original LED data display to provide a 6-digit display using the TIl311 displays with 4 digit address and 2 digit data.\
