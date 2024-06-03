@@ -34,7 +34,7 @@ Uses the STG ELF2K to ELF II board and AVI ELF II TIL311 6-Digit Display Card de
 More details to come... 
 
 **An RCA VIP Capable ELF II**\
-Uses the ELF II SD Card and VIP Keyboard For ELF II described below.\
+Uses the ELF II SD Card and VIP Keyboard For ELF II described below. Optionally add Cassette Board for loading and saving to cassette tape.\
 More details to come... 
 
 **An RCA Studio II Capable ELF II**\
@@ -97,6 +97,14 @@ For use with VIP Keyboard for ELF II as shown above for multiplayer game support
    * [Get the schematics here](notes/AVIELF2-VIP/AVIELF2-VIP2-SCH.pdf)
    * [Get the Gerber Files here](gerbers/AVIELF2-VIP/AVIELF2-VIP2-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/VIP-Secondary-Keyboard-for-The-AVI-ELF-II-Board-Assembly-Notes)
+
+* **AVI ELF II Cassette Interface Card**\
+An expansion cart to add the ability to load and save programs to cassette tape using the Cassette In / Cassette Out jacks on the ELF II main board or Cassette In / Cassette Out on the cassette board itself. This makes a good companion board for the ELF II SD Card for loading and saving VIP cards on cassette.\
+\
+<img src="notes/AVIELFIICASSETTEINTERFACE/CassetteCard.png" width="100%" />\
+   * [Get the schematics here](notes/AVIELFIICASSETTEINTERFACE/ELFIICassetteCircuitSchematic.pdf) 
+   * [Get the Gerber Files here](gerbers/AVIELFIICASSETTEINTERFACE/gerbers.zip)
+   * Build Notes and Assembly Manual in progress.
 
 * **Protoboard**\
 Full sized expansion card with 86 position edge connection for prototyping cicuitry.\
