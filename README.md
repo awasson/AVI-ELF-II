@@ -124,6 +124,8 @@ A plugin display board that is located directly in front of the Hex keypad, repl
 * **AVI ELF II TIL311 6-Digit Display Card**\
 A plugin display board that is located directly in front of the Hex keypad, replacing the original LED data display to provide a 6-digit display using the TIl311 displays with 4 digit address and 2 digit data.\
 \
+**Note:** TIL311 displays draw a lot of current. We highly recommend using the V7805-2000R in place of the LM7805 voltage regulator on your ELF II Main Board if you add the 6-Digit Display Card to your system; the V7805-2000R runs extremely cool even when powering the main board, the TIL311 6-Digit Display Card and an expansion card like the Hyperboard or STG ELF 2K Disk for ELF II Card. If you choose to use an LM7805 regulator, make sure to use a decent heatsink to dissapate the heat and do not leave your system unatended when powered on. 
+\
 <img src="notes/TIL311-6DIGIT-DISPLAY/AVI ELF II TIL311 6-Digit Display Card.jpeg" width="50%" /><br/>
    * [Get the schematics here](notes/TIL311-6DIGIT-DISPLAY/AVI%20ELF%20II%20TIL311%206-Digit%20Display%20Card.pdf) 
    * [Get the Gerber Files here](gerbers/TIL311-6DIGIT-DISPLAY/gerbers.zip)
