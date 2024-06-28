@@ -130,4 +130,4 @@ A plugin display board that is located directly in front of the Hex keypad, repl
 <img src="notes/TIL311-6DIGIT-DISPLAY/AVI ELF II TIL311 6-Digit Display Card.jpeg" width="50%" /><br/>
    * [Get the schematics here](notes/TIL311-6DIGIT-DISPLAY/AVI%20ELF%20II%20TIL311%206-Digit%20Display%20Card.pdf) 
    * [Get the Gerber Files here](gerbers/TIL311-6DIGIT-DISPLAY/gerbers.zip)
-   * Build Notes and Assembly Manual in progress.
+   * [Build Notes and Assembly Manual ](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-TIL311-6%E2%80%90Digit-Display-Card-Assembly--Notes)
