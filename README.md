@@ -6,7 +6,7 @@
 
 The AVI ELF II Rev D Variant single board microcomputer is a replica of the Netronics ELF II microcomputer that was reimagined by the late Ed Keefe (1964-2022) to maintain the aesthetic of the original ELF II, with additional onboard RAM and daughter cards for flexibility of keypad encoders and display drivers.
 
-This project is ongoing with the support of [Josh Bensadon](https://github.com/JoshBensadon), [Andrew Wasson](https://github.com/awasson), Walter Miraglia, Costas Skordis and Rizal Acob. Below you will find a stable version of the PCB gerber files, bill of materials. 
+This project is ongoing with the support of [Josh Bensadon](https://github.com/JoshBensadon), [Andrew Wasson](https://github.com/awasson), Walter Miraglia, [Costas Skordis](https://github.com/cskordis) and Rizal Acob. Below you will find a stable version of the PCB gerber files, bill of materials. 
 
 [The Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Detailed-Assembly-Notes) is in the Wiki.
 
