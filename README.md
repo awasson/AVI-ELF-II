@@ -82,6 +82,10 @@ With 128K RAM, 32K EEPROM, TTL and Serial terminal connections and an SD Card fo
    * [Get the schematics here](notes/AVIELF2SD/AVIELF2SD-SCH.pdf)
    * [Get the Gerber Files here](gerbers/AVIELF2SD/AVIELF2SD-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-SD-Card-Detailed-Assembly-Notes)<br/><br/>
+
+* **ASCII II Keyboard Rev D**\
+In development and coming soon... The ASCII II Keyboard Rev D is an amalgamation of the two ASCII keyboards that were made available for the Netronics ELF II and Explorer 85 single board computers. The Rev D board can operate as a stand alone keyboard with its onboard ac/dc power supply or it can be supplied the +5, -12v & GND from an ELF II equipped with a Giant Board or Hyperboard. With the addition of the ASCII II keyboard and a Giant Board + RAM Boards or the AVI Hyperboard, your ELF II will be able to load Netronics Tiny Basic from cassette and use the ELF II onboard Pixie display chip just as you would in 1979.\
+
  
 * **VIP Keyboard For ELF II**\
 The VIP Keyboard for ELF II is the companion card for the ELF II SD Card described above, providing the correct keyboard orientation and mapping for the RCA VIP system with a Q LED and a micro speaker to play the beeps tones and notifications that the original VIP plays.\
