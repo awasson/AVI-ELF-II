@@ -95,6 +95,7 @@ In development and coming soon... The ASCII II Keyboard Rev D is an amalgamation
 The AVI Full BASIC Math/ROM Card is reproduction of the board that was made available for the Netronics ELF II. This board was just created and we are buuilding and testing so more info will be added as we run it through its paces.\
 \
 ![AVI Reproduction Full BASIC Math/ROM Card](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2FullBASICMathROM/AVIELF2FullBASICMathROM-pic.png)
+    * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/AVIELF2FullBASICMathROM/AVIELF2FullBASICMathROM.pdf)
     * [Get the Gerber Files here](https://github.com/awasson/AVI-ELF-II/blob/main/gerbers/AVIELF2FullBASICMathROM/AVIELF2FullBASICMathROM-GERBERS.zip)<br/><br/>
 
 * **VIP Keyboard For ELF II**\
