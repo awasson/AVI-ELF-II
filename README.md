@@ -89,7 +89,8 @@ The ASCII II Keyboard Rev D is an amalgamation of the two ASCII keyboards that w
 ![ASCII KEYBOARD PCB](https://github.com/awasson/AVI-ELF-II/blob/main/notes/ASCII-KEYBOARD/AVI%20ASCII%20Keyboard%20Rev%20D.png)
     * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/ASCII-KEYBOARD/Netronics%20ASCII%20Keyboard.pdf)
     * [Get the BOM here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/ASCII-KEYBOARD/Netronics-ASCII-Keyboard-BOM.xlsx)
-    * [Get the Gerber Files here](gerbers/ASCII-KEYBOARD/Gerbers.zip)<br/><br/>
+    * [Get the Gerber Files here](gerbers/ASCII-KEYBOARD/Gerbers.zip)
+    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Keyboard-Rev-D)<br/><br/>
 
 * **AVI Reproduction Full BASIC Math/ROM Card**\
 The AVI Full BASIC Math/ROM Card is reproduction of the board that was made available for the Netronics ELF II. This board was just created and we are buuilding and testing so more info will be added as we run it through its paces.\
