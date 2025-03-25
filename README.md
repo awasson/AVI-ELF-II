@@ -84,12 +84,12 @@ With 128K RAM, 32K EEPROM, TTL and Serial terminal connections and an SD Card fo
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-SD-Card-Detailed-Assembly-Notes)<br/><br/>
 
 * **ASCII II Keyboard Rev D**\
-In development and coming soon... The ASCII II Keyboard Rev D is an amalgamation of the two ASCII keyboards that were made available for the Netronics ELF II and Explorer 85 single board computers. The Rev D board can operate as a stand alone keyboard with its onboard ac/dc power supply or it can be supplied the +5, -12v & GND from an ELF II equipped with a Giant Board or Hyperboard. With the addition of the ASCII II keyboard and a Giant Board + RAM Boards or the AVI Hyperboard, your ELF II will be able to load Netronics Tiny Basic from cassette and use the ELF II onboard Pixie display chip just as you would in 1979.\
+The ASCII II Keyboard Rev D is an amalgamation of the two ASCII keyboards that were made available for the Netronics ELF II and Explorer 85 single board computers. The Rev D board can operate as a stand alone keyboard with its onboard ac/dc power supply or it can be supplied the +5, -12v & GND from an ELF II equipped with a Giant Board or Hyperboard. With the addition of the ASCII II keyboard and a Giant Board + RAM Boards or the AVI Hyperboard, your ELF II will be able to load Netronics Tiny Basic from cassette and use the ELF II onboard Pixie display chip just as you would in 1979.\
 \
 ![ASCII KEYBOARD PCB](https://github.com/awasson/AVI-ELF-II/blob/main/notes/ASCII-KEYBOARD/AVI%20ASCII%20Keyboard%20Rev%20D.png)
     * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/ASCII-KEYBOARD/Netronics%20ASCII%20Keyboard.pdf)
     * [Get the BOM here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/ASCII-KEYBOARD/Netronics-ASCII-Keyboard-BOM.xlsx)
-    * Gerber files being finalized<br/><br/>
+    * [Get the Gerber Files here](gerbers/ASCII-KEYBOARD/Gerbers.zip)<br/><br/>
 
 * **AVI Reproduction Full BASIC Math/ROM Card**\
 The AVI Full BASIC Math/ROM Card is reproduction of the board that was made available for the Netronics ELF II. This board was just created and we are buuilding and testing so more info will be added as we run it through its paces.\
