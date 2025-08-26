@@ -29,6 +29,9 @@ Initially, we approached this project with the goal to faithfully reporduce the 
 **A faithful reproduction of the original ELF II**\
 If all you are looking for is a journey back to the late 70's, with a trusty ELF II and all of the RAM you could possibly use then, the AVI ELF II main board is all you need. It will respond and function as an exact replica of the original and if you squint at it from several feet away, it looks pretty close to the real McCoy. If you want to have the expansion possibilities that you would have enjoyed with the original system expanded with a Netronics Giant Board and the Giant Monitor, you can add a AVI Hyperboard to the mix.   
 
+**A state of the art (circa 1979) ELF II workstation**\
+The combination of an AVI ELF II main board, AVI Hyperboard (or Netronics Giant Board) and the AVI Reproduction Full BASIC Math/ROM Card, provides the top of the line Netronics ELF II microcomputer workstation of the time. It can be paired with the original ASCII keyboard/display or a serial terminal. Power on and it boots into the Giant Monitor where you can run, inspect or program in machine language or type in 00 (RUN) 0003 on the HEX keypad and it boots into Netronics Basic Level III (By Larry Sandlin) and you can use all of the built in RPN Math Co-processor features (bugs and all). Details to come in a new wiki page under development.    
+
 **An ELF2K compatible ELF/OS machine with the Aesthetics and features of the ELF II platform**\
 Uses the STG ELF2K to ELF II board and AVI ELF II TIL311 6-Digit Display Card described below.\
 More details to come... 
