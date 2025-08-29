@@ -86,10 +86,10 @@ With 128K RAM, 32K EEPROM, TTL and Serial terminal connections and an SD Card fo
    * [Get the Gerber Files here](gerbers/AVIELF2SD/AVIELF2SD-Gerbers.zip)
    * [Build Notes and Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/ELF-II-SD-Card-Detailed-Assembly-Notes)<br/><br/>
 
-* **ASCII II Keyboard Rev D**\
-The ASCII II Keyboard Rev D is an amalgamation of the two ASCII keyboards that were made available for the Netronics ELF II and Explorer 85 single board computers. The Rev D board can operate as a stand alone keyboard with its onboard ac/dc power supply or it can be supplied the +5, -12v & GND from an ELF II equipped with a Giant Board or Hyperboard. With the addition of the ASCII II keyboard and a Giant Board + RAM Boards or the AVI Hyperboard, your ELF II will be able to load Netronics Tiny Basic from cassette and use the ELF II onboard Pixie display chip just as you would in 1979.\
+* **AVI ASCII Keyboard Rev D**\
+The AVI ASCII Keyboard Rev D is a replica and amalgamation of the two ASCII keyboards that Netronics produced for their ELF II and Explorer 85 single board computers. The AVI ASCII Keyboard Rev D can operate as a stand alone keyboard with its onboard ac/dc power supply and parallel port or it can be supplied the +5, -12v & GND from an ELF II equipped with a Giant Board or Hyperboard. With an AVI ASCII Keyboard Rev D + a Giant Board & RAM Boards OR the AVI Hyperboard, your ELF II will be able to use a full ASCII keyboard to load ELF II software like Netronics Tiny Basic (from cassette) and use the ELF II onboard Pixie display chip just as you would in 1979 OR you can add the Reproduction Full BASIC Math/ROM Card and run Netronics BASIC Level III.\
 \
-![ASCII KEYBOARD PCB](https://github.com/awasson/AVI-ELF-II/blob/main/notes/ASCII-KEYBOARD/AVI%20ASCII%20Keyboard%20Rev%20D.png)
+![ASCII KEYBOARD PCB](notes/ASCII-KEYBOARD/IMG_3334.jpeg)
     * [Get the schematics here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/ASCII-KEYBOARD/Netronics%20ASCII%20Keyboard.pdf)
     * [Get the BOM here](https://github.com/awasson/AVI-ELF-II/blob/main/notes/ASCII-KEYBOARD/Netronics-ASCII-Keyboard-BOM.xlsx)
     * [Get the Gerber Files here](gerbers/ASCII-KEYBOARD/Gerbers.zip)
