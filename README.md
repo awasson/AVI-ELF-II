@@ -126,7 +126,7 @@ An expansion card to add the ability to load and save programs to cassette tape 
    * [Get the Gerber Files here](gerbers/AVIELFIICASSETTEINTERFACE/gerbers.zip)
    * Build Notes and Assembly Manual in progress.<br/><br/>
 
-* **Protoboard**\
+* <strong><span id="id-protoboard">Protoboard</strong>\
 Full sized expansion card with 86 position edge connection for prototyping cicuitry.\
 \
 ![IMG_0729](https://github.com/awasson/AVI-ELF-II/assets/2935397/44bb46ae-ec6e-4632-8ffc-c2a9964ae5e1)
