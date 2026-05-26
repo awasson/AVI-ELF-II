@@ -8,7 +8,7 @@ The AVI ELF II Rev D Variant single board microcomputer is a replica of the Netr
 
 This project is ongoing with the support of [Josh Bensadon](https://github.com/JoshBensadon), [Andrew Wasson](https://github.com/awasson), Walter Miraglia, [Costas Skordis](https://github.com/cskordis) and Rizal Acob. Below you will find a stable version of the PCB gerber files, bill of materials. 
 
-[The Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Detailed-Assembly-Notes) is in the Wiki.
+[The Assembly Manual](https://github.com/awasson/AVI-ELF-II/wiki/AVI-ELF-II-Detailed-Assembly-Notes) is in the Wiki and this covers building the mainboard and the expansion boards. 
 
 **There are a number of differences between the AVI ELF II and the original:**
 
